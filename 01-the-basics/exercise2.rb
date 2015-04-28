@@ -9,7 +9,7 @@ number = 1234
 # 1234/1000 is 1
 thousands = number / 1000
 
-# 234 % 1000 is 234
+# 1234 % 1000 is 234
 # 234/100 is 2
 hundreds = number % 1000 / 100
 
